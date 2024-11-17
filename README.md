@@ -1,10 +1,10 @@
 # IndiGo
 
-#### This project is a frontend clone of the IndiGo airline website, showcasing a seamless, responsive, and creative user interface. It replicates the core functionalities of the original site while emphasizing modern design, interactivity, and an impressive 3D aircraft model of an Airbus A320neo. Built using React, this project demonstrates my frontend development skills and creativity.
+### This project is a frontend clone of the IndiGo airline website, showcasing a seamless, responsive, and creative user interface. It replicates the core functionalities of the original site while emphasizing modern design, interactivity, and an impressive 3D aircraft model of an Airbus A320neo. Built using React, this project demonstrates my frontend development skills and creativity.
 
-##### The source code for this project is not publicly available, but you can explore the fully functional live version linked above.
+#### The source code for this project is not publicly available, but you can explore the fully functional live version linked above.
 
-#### Link - https://goindigo.netlify.app
+### Link - https://goindigo.netlify.app
 
 ### Features
 This project incorporates several standout features to enhance the user experience. The 3D Aircraft Model showcases a custom Airbus A320neo, designed and personalized in Blender, bringing the IndiGo Airlines brand to life with dynamic visuals. The Responsive Layout ensures that the site looks great and functions smoothly across all devices, from desktops to mobile screens. The Smooth Scrollable Interface provides seamless navigation, while the Flight Search Functionality allows users to input their travel details, such as departure, destination, dates, and passenger count. The site also includes Custom Styles to give it a unique, polished look, along with Independent Page Scrolling, which keeps the scroll positions intact as users navigate between pages.
