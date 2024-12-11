@@ -4,7 +4,7 @@
 
 ### The source code for this project is not publicly available, as it was created to showcase my frontend development skills and creativity. While I’m excited to share the fully functional live version, I’ve chosen to keep the code private to protect my intellectual property. This project utilizes IndiGo Airlines' branding (name, logo, and images) for demonstration purposes, but all creative coding and design elements are my own.
 
-### Link - https://goindigo.netlify.app
+### Link - https://indigoclone.netlify.app
 
 ### Features
 This project incorporates several standout features to enhance the user experience. The 3D Aircraft Model showcases a custom Airbus A320neo, designed and personalized in Blender, bringing the IndiGo Airlines brand to life with dynamic visuals. The Responsive Layout ensures that the site looks great and functions smoothly across all devices, from desktops to mobile screens. The Smooth Scrollable Interface provides seamless navigation, while the Flight Search Functionality allows users to input their travel details, such as departure, destination, dates, and passenger count. The site also includes Custom Styles to give it a unique, polished look, along with Independent Page Scrolling, which keeps the scroll positions intact as users navigate between pages.
